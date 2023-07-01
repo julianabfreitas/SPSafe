@@ -1,2 +1,6 @@
 # SPSafe
-Um dataset sobre dados de \\ criminalidade no estado de São Paulo
+SPSafe é um dataset construído a partir dos dados gerados pelo SSP/SP. 
+
+## Download
+
+## Dicionário de Dados
